@@ -14,9 +14,9 @@ namespace Tyuiu.AgafonovKS.Sprint3.Task6.V30
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #6 | Выполнил: Агафонов К. С. | ИИПб-23-1";
+            Console.Title = "Спринт #3 | Выполнил: Агафонов К. С. | ИИПб-23-1";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #6                                                               *");
+            Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Обработка целочисленной информации                                *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант 30                                                              *");

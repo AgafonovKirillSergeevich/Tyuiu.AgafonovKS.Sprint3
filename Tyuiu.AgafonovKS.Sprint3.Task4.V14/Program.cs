@@ -14,9 +14,9 @@ namespace Tyuiu.AgafonovKS.Sprint3.Task4.V14
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #4 | Выполнил: Агафонов К. С. | ИИПб-23-1";
+            Console.Title = "Спринт #3 | Выполнил: Агафонов К. С. | ИИПб-23-1";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #4                                                               *");
+            Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Использование операторов continue и break в циклах                *");
             Console.WriteLine("* Задание #4                                                              *"); 
             Console.WriteLine("* Вариант 14                                                              *");
